@@ -1,18 +1,10 @@
 ## code your solution here. 
 class Cat 
   attr_accessor :name 
-  def initialize(maru)
-    @name = maru 
-  end
-end
-
-def name 
-  @name
-end
-
-def name (value)
-  @name = value 
-end
+  
+def meow
+  puts "meow!"
+ nd
  
 maru = Cat.new 
 cat.name = maru 
