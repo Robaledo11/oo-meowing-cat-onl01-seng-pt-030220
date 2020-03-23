@@ -2,6 +2,9 @@
 class Cat 
   attr_accessor :name 
   
+  def initiazline(maru
+    @)
+  
 def meow
   puts "meow!"
  nd
