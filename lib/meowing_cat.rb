@@ -14,5 +14,9 @@ def name (value)
   @name = value 
 end
  
+maru = Cat.new 
+cat.name = maru 
+cat.name 
+
 
     
