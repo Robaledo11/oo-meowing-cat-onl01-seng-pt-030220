@@ -1,17 +1,26 @@
 ## code your solution here. 
-class Cat 
-  attr_accessor :name 
-  
-  def initiazline(maru
-    @)
-  
-def meow
-  puts "meow!"
- nd
- 
-maru = Cat.new 
-cat.name = maru 
-cat.name 
+class Cat
+
+  attr_accessor :name
+
+  def name
+    @name
+  end
+
+  def name=(name)
+      @name = name
+  end
+
+  def meow
+    @meow = puts "meow!"
+  end
+
+  def meow=(meow)
+    @meow = meow
+  end
+
+
+end
 
 
     
